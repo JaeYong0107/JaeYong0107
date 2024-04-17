@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=Html&logoColor=%23E34F26&label=Html">
+<img src="https://img.shields.io/badge/Html-%23E34F26?style=flat-square&logo=Html&logoColor=white">
 
 <!--
 **JaeYong0107/JaeYong0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
