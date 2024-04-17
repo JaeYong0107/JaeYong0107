@@ -11,6 +11,7 @@ STACK</br>
 <img src="https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white">
 <img src="https://img.shields.io/badge/REACT-%2361DAFB?style=flat-square&logo=REACT&logoColor=white">
 <img src="https://img.shields.io/badge/REDUX-%23764ABC?style=flat-square&logo=REDUX&logoColor=white"></br>
+<img src="https://img.shields.io/badge/NEXT.js-%23000000?style=flat-square&logo=NEXT.js&logoColor=white"></br>
 IDE</br>
 <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-%23007ACC?style=flat-square&logo=VISUAL STUDIO CODE&logoColor=white"></br>
 COLLABORATION</br>
