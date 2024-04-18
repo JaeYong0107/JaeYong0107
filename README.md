@@ -9,5 +9,4 @@
 ### IDE
 <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-%23007ACC?style=flat-square&logo=VISUAL STUDIO CODE&logoColor=white"></br>
 ### COLLABORATION
-<img src="https://img.shields.io/badge/GIT-%23F05032?style=flat-square&logo=GIT&logoColor=white"> <img src="https://img.shields.io/badge/JIRA-%230052CC?style=flat-square&logo=JIRA&logoColor=white">
-
+<img src="https://img.shields.io/badge/GIT-%23F05032?style=flat-square&logo=GIT&logoColor=white"> <img src="https://img.shields.io/badge/JIRA-%230052CC?style=flat-square&logo=JIRA&logoColor=white"> <img src="https://img.shields.io/badge/SLACK-%234A154B?style=flat-square&logo=SLACK&logoColor=white"> <img src="https://img.shields.io/badge/FIGMA-%23F24E1E?style=flat-square&logo=FIGMA&logoColor=white">
